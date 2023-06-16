@@ -2,7 +2,7 @@ import json
 
 import requests
 
-from src.external_stubber_response import ExternalStubberResponse
+from client_external_stubber_python.external_stubber_response import ExternalStubberResponse
 
 
 class StubberClient:
